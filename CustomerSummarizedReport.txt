@@ -1,0 +1,13 @@
+******Summarized Report*****
+
+Total number of stores: 8
+
+ID:
+1) 143578        Rosario Lugo
+2) 318765        Jessica Bracco
+3) 426873        Joseph Garrison
+4) 437915        Jason Stern
+5) 478035        Nicholas Mc Kenna
+6) 701237        Megan Pidgeon
+7) 852645        Austin Lambert
+8) 963105        Daniel Locasto

@@ -1,0 +1,142 @@
+******Detailed Report*****
+
+
+Stores:
+1) 11653471
+2) 14367598
+3) 22458790
+4) 24563798
+5) 33798105
+6) 43520179
+7) 74025469
+8) 75946345
+9) 78103204
+10) 87932154
+
+
+Parts:
+1) 121072    
+Name: Sunforce Tower Kit for Small WInd Turbines | Model# 45455
+onHand: 8
+Price: $449.99
+
+2) 121102    
+Name: Sundanzer Solar-Powered Chest Freezer | 8 Cubic Ft., 30in.L x 50in.W x 37in.H
+onHand: 2
+Price: $1299.00
+
+3) 14264     
+Name: Lawn-Revitalizing Aerator Shoes
+onHand: 47
+Price: $9.99
+
+4) 1572041   
+Name: NorthStar Gas Cold Water Pressure Washer | 4000 PSI, 3.5 GPM, Honda Engine, Belt Drive, Model# 1572041
+onHand: 7
+Price: $1699.99
+
+5) 168101    
+Name: Electrostatic Cling Outdoor Window Thermometer
+onHand: 73
+Price: $5.99
+
+6) 169139    
+Name: Generac XG8000E Portable Generator | 10,000 Surge Watts, 8000 Rated Watts, Electric Start, Model# 5747
+onHand: 11
+Price: $1369.99
+
+7) 2177      
+Name: Ergodyne GloWear Fire-Resistant Modacrylic Safety Vest | Class 2, Lime
+onHand: 27
+Price: $82.99
+
+8) 22453     
+Name: Milwaukee Abrasive Chop Saw | 14in., Model# 6177-20
+onHand: 14
+Price: $159.99
+
+9) 27442     
+Name: Landmann Haywood Wildlife Fireplace | Black, 33in.H, Model# 25319
+onHand: 17
+Price: $89.99
+
+10) 31801     
+Name: Ohio Steel Lawn Sweeper | 42in.W, 22 Cu. Ft., Model# 42SWP22
+onHand: 7
+Price: $259.99
+
+11) 32001     
+Name: Ironton Poly Sprayer | 2-Gallon, 45 PSI, Model# 32001
+onHand: 25
+Price: $16.99
+
+12) 399682    
+Name: DEWALT Heavy-Duty Double-Bevel Sliding Compound Miter Saw | 10in., Model# DW717
+onHand: 15
+Price: $499.00
+
+13) 40091     
+Name: Sunforce Wind Turbine | 1500 Watts
+onHand: 2
+Price: $3799.99
+
+14) 42436     
+Name: Troy-Bilt Walk-Behind Jet Sweeper | 205cc Briggs & Stratton Engine, 1000 CFM, Model# 24A-672J766
+onHand: 6
+Price: $399.99
+
+15) 42865     
+Name: Pair of Black 50-Mile Submersible 2-Way Radios | Model# GMR5089-2CKS
+onHand: 8
+Price: $99.99
+
+16) 44039     
+Name: LaCrosse Wireless Weather Station | Get a Full Color Forecast, Model# 308-146
+onHand: 39
+Price: $59.99
+
+17) 44765     
+Name: Kenwood ProTalk UHF Handheld Radio | Model# TK3402U16P
+onHand: 6
+Price: $289.99
+
+18) 46438     
+Name: Strongway Jumbo Wagon | 48in.L x 24in.W, 1,400-Lb. Capacity
+onHand: 3
+Price: $99.99
+
+19) 46463     
+Name: Ironton 10in. Compound Sliding Miter Saw | 2.4 HP, 15 Amp, 4,600 RPM
+onHand: 30
+Price: $149.99
+
+20) 46530     
+Name: Strongway Dump Cart | 1,200-Lb. Capacity, 5 Cu. Ft.
+onHand: 9
+Price: $159.99
+
+21) 47472     
+Name: Coleman 400 Watt Wind Turbine with Tower Kit | 27 Amps, Model# 48640
+onHand: 8
+Price: $899.99
+
+22) 47674     
+Name: Honda EU7000 Portable Generator | 7000 Surge Watts, 5500 Rated Watts, Electric Start, CARB-Compliant, Model# EU7000
+onHand: 5
+Price: $3999.99
+
+23) 48923     
+Name: Troy-Bilt Vortex 3-Stage 28in. Electric Start Snow Blower | 357cc Engine, Model# 31AH55Q8766
+onHand: 20
+Price: $1299.99
+
+24) 590122    
+Name: Radians Class 2 Surveyor Safety Vest
+onHand: 120
+Price: $19.99
+
+25) 8655      
+Name: Gravel Gear Utility Work Gloves
+onHand: 51
+Price: $16.99
+

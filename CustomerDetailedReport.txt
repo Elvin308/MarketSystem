@@ -1,0 +1,84 @@
+******Detailed Report*****
+
+
+Members:
+1) 143578
+First Name: Rosario
+Last Name: Lugo
+Address: 254 Brook Path
+City: North Bellmore
+State: NY
+Zip Code: 11710
+Date of Birth: 08-21-1979
+Annual Fee: $35.00
+
+2) 318765
+First Name: Jessica
+Last Name: Bracco
+Address: 125 Beverly Ave
+City: Copiague
+State: NY
+Zip Code: 11726
+Date of Birth: 06-15-1986
+Annual Fee: $35.00
+
+3) 426873
+First Name: Joseph
+Last Name: Garrison
+Address: 94 Barbara Dr
+City: Syosset
+State: NY
+Zip Code: 11791
+Date of Birth: 12-12-1990
+Annual Fee: $35.00
+
+4) 437915
+First Name: Jason
+Last Name: Stern
+Address: 1478 E 87th St
+City: Brooklyn
+State: NY
+Zip Code: 11236
+Date of Birth: 12-03-1980
+Annual Fee: $35.00
+
+5) 478035
+First Name: Nicholas
+Last Name: Mc Kenna
+Address: 87 Magenta Ln
+City: Brewster
+State: NY
+Zip Code: 10509
+Date of Birth: 02-05-1981
+Annual Fee: $35.00
+
+6) 701237
+First Name: Megan
+Last Name: Pidgeon
+Address: 96 Brookwood Dr
+City: Kings Park
+State: NY
+Zip Code: 11754
+Date of Birth: 04-09-1949
+Annual Fee: $0.00
+
+7) 852645
+First Name: Austin
+Last Name: Lambert
+Address: 1287 Oak St
+City: Levittown
+State: NY
+Zip Code: 11756
+Date of Birth: 11-25-1988
+Annual Fee: $35.00
+
+8) 963105
+First Name: Daniel
+Last Name: Locasto
+Address: 92 Lincoln Ave
+City: Franklin Square
+State: NY
+Zip Code: 11010
+Date of Birth: 03-14-1950
+Annual Fee: $0.00
+
