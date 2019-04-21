@@ -1,0 +1,4 @@
+CREATE TABLE Market.MEMBERS (Id VARCHAR(10) NOT NULL, firstName VARCHAR(50), lastName VARCHAR(50), address VARCHAR(150), city VARCHAR(50), state CHAR(2), zipCode CHAR(5), dob DATE, annualFee DECIMAL(5,2), PRIMARY KEY(Id));
+CREATE TABLE Market.STORE (Id INT NOT NULL, PRIMARY KEY(Id));
+CREATE TABLE Market.PARTS (Number CHAR(10) NOT NULL, Name VARCHAR(500), Price DECIMAL(9,2) CONSTRAINT Price_ck CHECK(Price > 0), onHand INT CONSTRAINT onHand_ck CHECK(onHand > 0), Image blob(2M), PRIMARY KEY(Number));
+CREATE TABLE Market.SALES (Id INT NOT NULL GENERATED ALWAYS AS IDENTITY, StoreId INT NOT NULL, MemberId VARCHAR(10), PartNumber CHAR(10), Purchase_Date DATE, Quantity int, Price_Paid DECIMAL(9,2), CONSTRAINT Quantity_ck CHECK(Quantity > 0), CONSTRAINT PricePaid_ck CHECK(Price_Paid > 0), FOREIGN KEY (MemberId) REFERENCES Market.Members(Id), FOREIGN KEY (PartNumber) REFERENCES Market.Parts(Number), FOREIGN KEY(StoreId) REFERENCES Market.Store(Id), PRIMARY KEY(Id));
